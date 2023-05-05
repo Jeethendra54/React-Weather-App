@@ -1,0 +1,47 @@
+.container{
+    margin-top: 8%;
+}
+
+.temp{
+    height: 34px;
+}
+
+h1{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+h4{
+    margin-left: 2%;
+}
+
+#location{
+    margin-left: 37% ;
+}
+
+#info-1{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 11%;
+    margin-bottom: 10%;
+}
+#info-2{
+    display: flex;
+    margin-left: 12%; 
+}
+
+.logo-info{
+    margin-top: 6px;
+    margin-left: 1%;
+}
+
+#humid{
+    height: 30px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+#wind{
+    margin-left: 7%;
+}
